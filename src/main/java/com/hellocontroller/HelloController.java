@@ -9,13 +9,13 @@ public class HelloController {
 	@RequestMapping("/")
 	public String displayData()
 	{
-		return "Hello-World";
+		return "Hello, This is sample java springboot applicatio for doocker-compose";
 	}
 	
 	@RequestMapping("/data")
 	public String dataDisplay()
 	{
-		return "Hello, This is Indiameter project";
+		return "Hello, This is sample java springboot application";
 	}
 
 }
