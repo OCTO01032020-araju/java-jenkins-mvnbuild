@@ -1,0 +1,2 @@
+This is to create jar using jenkins.
+Freestyle jenkins job created with this repository and builded using Maven by command "mvn clean install" executed on Windows batch command
